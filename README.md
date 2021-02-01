@@ -38,4 +38,6 @@ This project analyzes Amazon's Vine Program to determine if there is a positive 
   
   ## Summary
 51% of the reviews that were completed by Vine program members were 5 starts whereas 39% of the non-vine members gave the product a 5 star review. This indicates that there is a positive bias for members in the Vine program.
+
+Additionally, we could look at the inverse of 5 star reviews and look at 1 star reviews to see if being part of the vine program affected if members were willing to give products a low rating or if it was swaying members review 1 or 2 stars higher.
   
